@@ -1,9 +1,11 @@
-
+# 🚀 Mini-Proyecto Python para Jupyter Notebook
 
 **Tema**: Sistema de Gestión de Inventario - TechStore  
+**Nivel**: Introductorio / Consolidación de Fundamentos
 
+---
 
-## Requisitos Cumplidos
+## 📌 Requisitos Cumplidos
 
 Este proyecto fue diseñado específicamente para cubrir todos los temas solicitados:
 
@@ -18,10 +20,27 @@ Este proyecto fue diseñado específicamente para cubrir todos los temas solicit
 
 ---
 
-##  Archivos del Proyecto
+## 📂 Archivos del Proyecto
 
--  **`mini_proyecto_python.ipynb`**: Cuaderno interactivo de Jupyter Notebook con celdas ejecutables y explicaciones.
--  **`modulo_inventario.py`**: Módulo Python propio con funciones reutilizables.
+- 📓 **`mini_proyecto_python.ipynb`**: Cuaderno interactivo de Jupyter Notebook con celdas ejecutables y explicaciones.
+- ⚙️ **`modulo_inventario.py`**: Módulo Python propio con funciones reutilizables.
 
 ---
 
+## 🛠️ ¿Cómo Ejecutar el Proyecto?
+
+### En Jupyter Notebook / JupyterLab:
+1. Abre tu consola o terminal.
+2. Navega a la carpeta del proyecto:
+   ```bash
+   cd C:\Users\Carlos.Arauz\.gemini\antigravity\scratch\mini_proyecto_python
+   ```
+3. Ejecuta Jupyter:
+   ```bash
+   jupyter notebook mini_proyecto_python.ipynb
+   ```
+
+### En Visual Studio Code:
+1. Abre la carpeta `C:\Users\Carlos.Arauz\.gemini\antigravity\scratch\mini_proyecto_python` en VS Code.
+2. Abre el archivo `mini_proyecto_python.ipynb`.
+3. Selecciona tu Kernel de Python y presiona **Run All** o ejecuta celda por celda.

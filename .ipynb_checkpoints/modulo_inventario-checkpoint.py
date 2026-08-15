@@ -11,8 +11,8 @@ formateo de precios y generación de códigos únicos de producto.
 from datetime import datetime
 import random
 
-# Constante del módulo (13% IVA)
-IMPUESTO_IVA = 0.13
+# Constante del módulo
+IMPUESTO_IVA = 0.13  # 13% IVA (ejemplo)
 
 def generar_codigo_unico(prefijo="PROD"):
     """
